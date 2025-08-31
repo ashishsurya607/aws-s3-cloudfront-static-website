@@ -21,8 +21,8 @@ Currently, the website contains a single page: *index.html*.
 ---
 
 ## 🔗 Live Demo
-[Visit Website](https://CLOUDFRONT_DOMAIN/)  
-(Replace with your actual CloudFront distribution domain)  
+[Visit Website](https://df5un26y7r3ya.cloudfront.net/)  
+  
 
 ---
 
